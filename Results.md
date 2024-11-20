@@ -26,6 +26,7 @@ The average rating per movie genre is as follows:
 | Horror | 3.28 |
 | (no genres listed) | 3.07 |
 
+![Unknown](https://github.com/user-attachments/assets/74e92726-2eea-45a4-a60d-0c0d43f56b02)
 
 #### 2. What were the top 3 highest and lowest rated genres? 
 
